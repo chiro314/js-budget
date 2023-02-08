@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+.container{
+    background-color: rgb(237, 236, 235);
+    font-family: 'Arvo', Arial;
+    height: 1000px;
+}
+h1{
+    font-size: 1.5em !important;
+}
+#bt-raz{
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+.in-montant, #in-epargne-libelle, .total{
+    width: 100%;
+}
+/*
+.in-bugget{
+    width: 100%;
+}
+*/
+button{
+    width: 100%;
+}
+
+
+
+
+
+
+
